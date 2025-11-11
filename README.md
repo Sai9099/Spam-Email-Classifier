@@ -23,24 +23,9 @@ Scikit-learn / NLTK / Pandas / NumPy
 
 Jupyter Notebook / Google Colab
 
-📂 How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/spam-email-classifier.git
 
 
-Navigate to the project directory:
 
-cd spam-email-classifier
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the Jupyter Notebook or Python script to train and test the model.
 
 📌 Use Cases
 
